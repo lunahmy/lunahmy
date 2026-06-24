@@ -55,8 +55,9 @@ Hi, I'm Luna Hayes
 </td>
 </tr>
 </table>
+
 ---
- 
+
 ## Tech Tools
  
 ![JS](https://skillicons.dev/icons?i=js,html,css,p5js,python,r,unity,git,github)
