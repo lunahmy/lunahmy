@@ -9,7 +9,7 @@
 
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=safari&logoColor=white)](https://lunahayes.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lunahayes)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/lunahayes)
 [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunamhayes@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=files&logoColor=white)](https://lunahayes.com)
 
