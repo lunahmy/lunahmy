@@ -63,7 +63,7 @@
 <a href="https://github.com/lunahmy/REPO-LINK">
 <img src="https://placehold.co/820x225/111111/cccccc?text=REPO+NAME" width="100%" alt="REPO NAME"/>
 </a>
-<sub><!-- add description --></sub>
+<sub>interactive · data visualization · p5.js </sub>
  
 </td>
 </tr>
@@ -78,7 +78,7 @@
 ## I also do
  
 ![Design](https://skillicons.dev/icons?i=figma,blender,ai,ps,pr,ae)
-![TouchDesigner](./assets/td-logo.png)
+<img src="./assets/td-logo.png" alt="TouchDesigner" height="48"/>
  
 ---
  
