@@ -87,5 +87,7 @@
 ---
  
 <sub>✦ UNC Ahapel Hill '26 · Media & Journalism · Communication Studies · Japanese Minor ✦</sub>
+
 <sub><a href="https://lunahayes.com/>lunahayes.com</a></sub>
+
 </div>
