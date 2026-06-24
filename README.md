@@ -5,7 +5,7 @@
 
 <br>
 <br>
-*Media designer exploring the edges of journalism, interactive art, and creative code.*
+<em>Media designer exploring the edges of journalism, interactive art, and creative code.</em>
 
 <br>
 <br>
@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="50%" align="center">
-**Who's Coming to the Zoo?**
+<strong>Who's Coming to the Zoo?</strong>
  
 <a href="https://lunahmy.github.io/asia-exhibit">
 <img src="./assets/nczoo.gif" width="100%" alt="Who's Coming to the Zoo?"/>
@@ -31,7 +31,7 @@
  
 </td>
 <td width="50%" align="center">
-**p5.js Sketches + Gallery**
+<strong>p5.js Sketches + Gallery</strong>
  
 <a href="https://lunahmy.github.io/p5js-gallery/">
 <img src="./assets/p5.gif" width="100%" alt="p5.js Sketches + Gallery"/>
@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td width="50%" align="center">
-**SIGNAL**
+<strong>SIGNAL</strong>
  
 <a href="https://lunahmy.github.io/signal/">
 <img src="./assets/signal.png" width="100%" alt="SIGNAL Magazine"/>
@@ -51,7 +51,7 @@
  
 </td>
 <td width="50%" align="center">
-**ONLINE**
+<strong>ONLINE</strong>
  
 <a href="https://lunahmy.github.io/online/">
 <img src="./assets/online.png" width="100%" alt="ONLINE"/>
@@ -62,7 +62,7 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-**Un(sur)veiling**
+<strong>Un(sur)veiling**</strong>
 
 <a href="https://lunahmy.github.io/p5js-surveillance/">
 <img src="./assets/p5-interact.png" width="100%" height="80%" alt="Un(sur)veiling"/>
