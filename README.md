@@ -56,6 +56,17 @@
  
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+**REPO NAME**
+ 
+<a href="https://github.com/lunahmy/REPO-LINK">
+<img src="https://placehold.co/820x225/111111/cccccc?text=REPO+NAME" width="100%" alt="REPO NAME"/>
+</a>
+<sub><!-- add description --></sub>
+ 
+</td>
+</tr>
 </table>
 
 ---
