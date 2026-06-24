@@ -60,7 +60,7 @@
 <td colspan="2" align="center">
 **Un(sur)veiling**
 
-<a href="[https://github.com/lunahmy/p5-surveillance](https://lunahmy.github.io/p5js-surveillance/)">
+<a href="https://lunahmy.github.io/p5js-surveillance/">
 <img src="./assets/p5-interact.jpg" width="100%" height="80%" alt="Un(sur)veiling"/>
 </a>
 <sub>interactive · data visualization · p5.js </sub>
