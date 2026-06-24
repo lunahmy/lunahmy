@@ -1,6 +1,6 @@
-<div align="center">
 ## Hi, I'm Luna Hayes
- 
+
+<div align="center"> 
 <img src="https://placehold.co/900x200/0a0a0a/ffffff?text=luna+hayes" alt="Luna Hayes" width="100%"/> 
  
 *Media designer exploring the edges of journalism, interactive art, and creative code.*
