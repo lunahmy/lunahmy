@@ -20,7 +20,7 @@
 <td width="50%" align="center">
 **Who's Coming to the Zoo?**
  
-<a href="https://lunahmy.github.io/signal/asia-exhibit">
+<a href="https://lunahmy.github.io/asia-exhibit">
 <img src="./assets/nczoo.gif" width="100%" alt="Who's Coming to the Zoo?"/>
 </a>
 <sub>NC Zoo Asia exhibit infographic · data visualization · print + digital</sub>
