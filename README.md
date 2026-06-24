@@ -5,7 +5,7 @@
 
 <br>
 <br>
-<em>Media designer exploring the edges of journalism, interactive art, and creative code.</em>
+<em>Media designer exploring the intersection of storytelling, interactive art, and creative code.</em>
 
 <br>
 <br>
