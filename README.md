@@ -62,7 +62,7 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-<strong>Un(sur)veiling**</strong>
+<strong>Un(sur)veiling</strong>
 
 <a href="https://lunahmy.github.io/p5js-surveillance/">
 <img src="./assets/p5-interact.png" width="100%" height="80%" alt="Un(sur)veiling"/>
