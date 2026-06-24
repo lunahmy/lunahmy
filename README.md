@@ -13,7 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0066eb?style=for-the-badge&logo=safari&logoColor=white)](https://lunahayes.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0066eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/lunahayes)
 [![Gmail](https://img.shields.io/badge/GMAIL-0066eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunamhayes@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-0066eb?style=for-the-badge&logo=files&logoColor=white)]((https://lunahmy.github.io/hayes-luna-resume.pdf))
+[![Resume](https://img.shields.io/badge/RESUME-0066eb?style=for-the-badge&logo=files&logoColor=white)](https://lunahmy.github.io/hayes-luna-resume.pdf)
 
 ---
  
