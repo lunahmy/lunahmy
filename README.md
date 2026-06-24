@@ -1,12 +1,10 @@
 <div align="center"> 
-
-## Hi, I'm Luna Hayes
-
-*Media designer exploring the edges of journalism, interactive art, and creative code.*
-
 <a href="https://lunahayes.com">
 <img src="./assets/header.png" alt="Luna Hayes" width="100%"/>
 </a>
+
+*Media designer exploring the edges of journalism, interactive art, and creative code.*
+
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=safari&logoColor=white)](https://lunahayes.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lunahayes)
