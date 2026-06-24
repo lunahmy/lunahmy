@@ -61,7 +61,7 @@
 **Un(sur)veiling**
 
 <a href="https://github.com/lunahmy/REPO-LINK">
-<img src="./assets/p5-interact.jpg" width="100%" alt="Un(sur)veiling"/>
+<img src="./assets/p5-interact.jpg" width="100%" height="80%" alt="Un(sur)veiling"/>
 </a>
 <sub>interactive · data visualization · p5.js </sub>
  
