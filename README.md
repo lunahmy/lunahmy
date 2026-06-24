@@ -20,7 +20,7 @@
 <td width="50%" align="center">
 **Who's Coming to the Zoo?**
  
-<a href="https://lunahmy.github.io/asia-exhibit/">
+<a href="https://lunahmy.github.io/signal/asia-exhibit">
 <img src="./assets/nczoo.gif" width="100%" alt="Who's Coming to the Zoo?"/>
 </a>
 <sub>NC Zoo Asia exhibit infographic · data visualization · print + digital</sub>
@@ -29,7 +29,7 @@
 <td width="50%" align="center">
 **p5.js Sketches + Gallery**
  
-<a href="https://github.com/lunahmy/p5js-gallery">
+<a href="https://lunahmy.github.io/p5js-gallery/">
 <img src="./assets/p5.gif" width="100%" alt="p5.js Sketches + Gallery"/>
 </a>
 <sub>generative + computational art · interactive canvas · creative code</sub>
@@ -40,7 +40,7 @@
 <td width="50%" align="center">
 **SIGNAL**
  
-<a href="https://github.com/lunahmy/signal">
+<a href="https://lunahmy.github.io/signal/">
 <img src="./assets/signal.png" width="100%" alt="SIGNAL Magazine"/>
 </a>
 <sub>digital magazine · editorial design · interactive flipbook</sub>
@@ -49,7 +49,7 @@
 <td width="50%" align="center">
 **ONLINE**
  
-<a href="https://github.com/lunahmy/online">
+<a href="https://lunahmy.github.io/online/">
 <img src="./assets/online.png" width="100%" alt="ONLINE"/>
 </a>
 <sub>Twine Harlowe 3.8.8 · web-based game</sub>
