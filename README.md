@@ -2,7 +2,6 @@
 <div align="center">
 <!-- Replace with your actual animated SVG or banner image -->
 <img src="https://placehold.co/900x200/0a0a0a/ffffff?text=luna+hayes" alt="Luna Hayes" width="100%"/>
-# luna hayes ✦ ルナ・ヘイズ
  
 **digital media · creative coding · design**
  
