@@ -75,7 +75,7 @@
 
 ## Tools
  
-![JS](https://skillicons.dev/icons?i=js,html,css,p5js,unity,github)
+![JS](https://skillicons.dev/icons?i=js,html,css,p5js,unity,github,vscode)
 <img src="./assets/tdLogo.png" alt="TouchDesigner" height="48"/>
 
 ## I also do
