@@ -78,7 +78,7 @@
 ## I also do
  
 ![Design](https://skillicons.dev/icons?i=figma,blender,ai,ps,pr,ae)
-<img src="./assets/td-logo.png" alt="TouchDesigner" height="48"/>
+<img src="./assets/tdLogo.png" alt="TouchDesigner" height="48"/>
  
 ---
  
