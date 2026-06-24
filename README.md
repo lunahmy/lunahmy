@@ -27,7 +27,7 @@
 <a href="https://lunahmy.github.io/asia-exhibit">
 <img src="./assets/nczoo.gif" width="100%" alt="Who's Coming to the Zoo?"/>
 </a>
-<sub>NC Zoo Asia exhibit infographic · data visualization · print + digital</sub>
+<sub>interactive infographic · journalism · graphic design</sub>
  
 </td>
 <td width="50%" align="center">
