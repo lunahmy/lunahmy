@@ -58,10 +58,10 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-**REPO NAME**
- 
+**Un(sur)veiling**
+
 <a href="https://github.com/lunahmy/REPO-LINK">
-<img src="https://placehold.co/820x225/111111/cccccc?text=REPO+NAME" width="100%" alt="REPO NAME"/>
+<img src="./assets/p5-interact.png" width="100%" alt="Un(sur)veiling"/>
 </a>
 <sub>interactive · data visualization · p5.js </sub>
  
