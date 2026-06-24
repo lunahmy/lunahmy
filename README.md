@@ -71,14 +71,14 @@
 
 ---
 
-## Tech Tools
+## Softwares
  
-![JS](https://skillicons.dev/icons?i=js,html,css,p5js,unity,github,python)
+![JS](https://skillicons.dev/icons?i=js,html,css,p5js,unity,github)
 <img src="./assets/tdLogo.png" alt="TouchDesigner" height="48"/>
 
 ## I also do
  
-![Design](https://skillicons.dev/icons?i=figma,blender,ai,ps,pr,ae) 
+![Design](https://skillicons.dev/icons?i=ai,ps,pr,ae,blender,figma) 
 
 ---
  
