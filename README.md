@@ -3,6 +3,7 @@
 <img src="./assets/header.png" alt="Luna Hayes" width="100%"/>
 </a>
 
+<br>
 
 *Media designer exploring the edges of journalism, interactive art, and creative code.*
 
