@@ -4,7 +4,9 @@
 
 *Media designer exploring the edges of journalism, interactive art, and creative code.*
 
-<img src="https://placehold.co/900x200/0a0a0a/ffffff?text=luna+hayes" alt="Luna Hayes" width="100%"/> 
+<a href="https://lunahayes.com">
+<img src="./assets/header.png" alt="Luna Hayes" width="100%"/>
+</a>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=safari&logoColor=white)](https://lunahayes.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lunahayes)
