@@ -3,15 +3,16 @@
  
 Hi, I'm Luna Hayes
  
-**Media designer exploring the edges of journalism, interactive art, and creative code.*
+*Media designer exploring the edges of journalism, interactive art, and creative code.*
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-lunahayes.com-black?style=flat-square&logo=safari&logoColor=white)](https://lunahayes.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luna--hayes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/lunahayes)
-[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lunamhayes@gmail.com)
- 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-lunahayes.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://lunahayes.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-luna--hayes-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lunahayes)
+[![Email](https://img.shields.io/badge/GMAIL-lunamhayes%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunamhayes@gmail.com)
+[![Resume](https://img.shields.io/badge/RESUME-download-000000?style=for-the-badge&logo=docusign&logoColor=white)](https://lunahmy.github.io/resume)
+
 ---
  
-## 📌 Featured Repos
+## Featured Repos
  
 <table>
 <tr>
