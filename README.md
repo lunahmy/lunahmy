@@ -71,7 +71,7 @@
 
 ---
 
-## Softwares
+## Tools
  
 ![JS](https://skillicons.dev/icons?i=js,html,css,p5js,unity,github)
 <img src="./assets/tdLogo.png" alt="TouchDesigner" height="48"/>
