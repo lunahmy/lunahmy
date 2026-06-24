@@ -4,11 +4,10 @@
 Hi, I'm Luna Hayes
  
 *Media designer exploring the edges of journalism, interactive art, and creative code.*
- 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-lunahayes.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://lunahayes.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-luna--hayes-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lunahayes)
-[![Email](https://img.shields.io/badge/GMAIL-lunamhayes%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunamhayes@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-download-000000?style=for-the-badge&logo=docusign&logoColor=white)](https://lunahmy.github.io/resume)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=safari&logoColor=white)](https://lunahayes.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lunahayes)
+[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunamhayes@gmail.com)
+[![Resume](https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=files&logoColor=white)](https://lunahayes.com)
 
 ---
  
