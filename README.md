@@ -52,7 +52,7 @@
 <a href="https://github.com/lunahmy/online">
 <img src="./assets/online.png" width="100%" alt="ONLINE"/>
 </a>
-<sub><!-- add description --></sub>
+<sub>Twine Harlowe 3.8.8 · web-based game</sub>
  
 </td>
 </tr>
