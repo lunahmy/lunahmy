@@ -67,7 +67,7 @@
 ## I also do
  
 ![Design](https://skillicons.dev/icons?i=figma,blender,ai,ps,pr,ae)
-![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=flat-square&logoColor=white)
+![TouchDesigner](./assets/td-logo.png)
  
 ---
  
