@@ -8,6 +8,7 @@
 *Media designer exploring the edges of journalism, interactive art, and creative code.*
 
 <br>
+<br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0066eb?style=for-the-badge&logo=safari&logoColor=white)](https://lunahayes.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0066eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/lunahayes)
