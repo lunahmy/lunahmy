@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://placehold.co/900x200/0a0a0a/ffffff?text=luna+hayes" alt="Luna Hayes" width="100%"/> 
+ 
 Hi, I'm Luna Hayes
+ 
 *Media designer exploring the edges of journalism, interactive art, and creative code.*
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-lunahayes.com-black?style=flat-square&logo=safari&logoColor=white)](https://lunahayes.com)
