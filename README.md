@@ -21,7 +21,7 @@
 **Who's Coming to the Zoo?**
  
 <a href="https://lunahmy.github.io/asia-exhibit/">
-<img src="https://placehold.co/400x225/111111/cccccc?text=Who%27s+Coming+to+the+Zoo%3F" width="100%" alt="Who's Coming to the Zoo?"/>
+<img src="./assets/nczoo.gif" width="100%" alt="Who's Coming to the Zoo?"/>
 </a>
 <sub>NC Zoo Asia exhibit infographic · data visualization · print + digital</sub>
  
@@ -30,7 +30,7 @@
 **p5.js Sketches + Gallery**
  
 <a href="https://github.com/lunahmy/p5js-gallery">
-<img src="https://placehold.co/400x225/111111/cccccc?text=p5.js+Sketches+%2B+Gallery" width="100%" alt="p5.js Sketches + Gallery"/>
+<img src="./assets/p5.gif" width="100%" alt="p5.js Sketches + Gallery"/>
 </a>
 <sub>generative + computational art · interactive canvas · creative code</sub>
  
@@ -41,7 +41,7 @@
 **SIGNAL**
  
 <a href="https://github.com/lunahmy/signal">
-<img src="https://placehold.co/400x225/111111/cccccc?text=SIGNAL" width="100%" alt="SIGNAL Magazine"/>
+<img src="./assets/signal.png" width="100%" alt="SIGNAL Magazine"/>
 </a>
 <sub>digital magazine · editorial design · interactive flipbook</sub>
  
@@ -50,7 +50,7 @@
 **ONLINE**
  
 <a href="https://github.com/lunahmy/online">
-<img src="https://placehold.co/400x225/111111/cccccc?text=ONLINE" width="100%" alt="ONLINE"/>
+<img src="./assets/online.png" width="100%" alt="ONLINE"/>
 </a>
 <sub><!-- add description --></sub>
  
@@ -62,7 +62,7 @@
 
 ## Tech Tools
  
-![JS](https://skillicons.dev/icons?i=js,html,css,p5js,python,r,unity,git,github)
+![JS](https://skillicons.dev/icons?i=js,html,css,p5js,unity,github,python)
 
 ## I also do
  
