@@ -74,12 +74,12 @@
 ## Tech Tools
  
 ![JS](https://skillicons.dev/icons?i=js,html,css,p5js,unity,github,python)
+<img src="./assets/tdLogo.png" alt="TouchDesigner" height="48"/>
 
 ## I also do
  
-![Design](https://skillicons.dev/icons?i=figma,blender,ai,ps,pr,ae)
-<img src="./assets/tdLogo.png" alt="TouchDesigner" height="48"/>
- 
+![Design](https://skillicons.dev/icons?i=figma,blender,ai,ps,pr,ae) 
+
 ---
  
 <sub>✦ UNC Ahapel Hill '26 · Media & Journalism · Communication Studies · Japanese Minor ✦</sub>
