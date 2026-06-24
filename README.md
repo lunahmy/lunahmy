@@ -4,6 +4,8 @@
 </a>
 
 <br>
+<br>
+<br>
 
 *Media designer exploring the edges of journalism, interactive art, and creative code.*
 
