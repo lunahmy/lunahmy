@@ -17,7 +17,7 @@
 
 ---
  
-## Featured Repos
+## Featured Projects
  
 <table>
 <tr>
